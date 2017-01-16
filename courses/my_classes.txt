@@ -3,3 +3,4 @@ CS 341 : Data Structures
 DSCI 210 : Data Science
 STAT 210 : Statistics
 STAT 489 : Introduction to Functional Programming, Lazy Evaluation, and Distributed Computing in Python
+So far I'm really enjoying my classes this semester
